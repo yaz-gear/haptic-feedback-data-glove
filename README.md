@@ -39,3 +39,12 @@ This project was fully designed and implemented by me as part of my MSc in Advan
 - Demonstrated a functional and affordable alternative to commercial haptic gloves
 
 ## Repository Structure
+
+## Future Improvements
+- Improved force calibration and realism
+- Wireless communication
+- Enhanced ergonomics and durability
+- Expanded VR interaction scenarios
+
+## Disclaimer
+This project is inspired by prior academic work in the field of haptic interfaces and other similar works in the field, which is cited in the project report. All code, mechanical designs, and system integration presented here were independently developed for this project.
