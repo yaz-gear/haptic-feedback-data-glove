@@ -11,7 +11,7 @@ The data glove integrates:
 - Potentiometers for finger position tracking
 - Servo motors and a pulley-based mechanism for force feedback
 - An MPU (accelerometer) for hand motion tracking
-- An Arduino microcontroller for sensor acquisition and actuator control
+- An ESP32 microcontroller for sensor acquisition and actuator control
 - A custom DLL to enable communication between Unity and the Arduino
 - Unity integration for VR interaction and visualization
 
@@ -27,7 +27,7 @@ This project was fully designed and implemented by me as part of my MSc in Advan
 - System testing and performance evaluation
 
 ## Technologies Used
-- Arduino
+- ESP32
 - Servo motors, potentiometers, MPU (accelerometer)
 - C / C++ (embedded and DLL development)
 - Unity 
